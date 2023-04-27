@@ -1,0 +1,24 @@
+venv/
+__pycache__/
+.python-version
+.vscode/
+.env
+postgres-data/
+__pycache__
+Ejercicio de postulación Bsale - Aerolínea.pdf
+**/**/__pycache__
+**/__pycache__
+
+my-db/
+local_db/
+
+warehouse_img_with_no_rob.png
+warehouse_img_with_no_rob2.png
+warehouse_img_with_no_rob3.png
+warehouse_img_with_rob.png
+warehouse_img_with_rob2.png
+warehouse_img_with_rob3.png
+
+robot_py/mia_sim.py
+robot_py/control_robot.py
+path_planning/path_py.py

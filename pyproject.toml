@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "robot-control-python"
+version = "0.1.0"
+description = ""
+authors = ["nestor <albquenes7294@gmail.com>"]
+readme = "README.md"
+packages = [{include = "robot_control_python"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pygame = "^2.3.0"
+opencv-python = "^4.7.0.72"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
